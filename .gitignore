@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+dataset/*.csv
+data_processed/
+results/*.csv
+results/*.png
+*.ipynb
+.env
