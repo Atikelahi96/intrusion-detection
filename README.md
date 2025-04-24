@@ -5,7 +5,7 @@ This repository implements supervised machine learning models for intrusion dete
 
 ## Dataset
 Download the dataset from Kaggle:
-https://www.kaggle.com/datasets/username/cybersecurity-intrusion-detection-dataset
+https:https://www.kaggle.com/datasets/dnkumars/cybersecurity-intrusion-detection-dataset
 
 Place the `cybersecurity_intrusion_data.csv` file into the `dataset/` folder.
 
